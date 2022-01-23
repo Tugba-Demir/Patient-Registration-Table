@@ -1,0 +1,10 @@
+C:\c#Projects\hospitalForm\hospitalForm\bin\Debug\hospitalForm.exe.config
+C:\c#Projects\hospitalForm\hospitalForm\bin\Debug\hospitalForm.exe
+C:\c#Projects\hospitalForm\hospitalForm\bin\Debug\hospitalForm.pdb
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.csproj.AssemblyReference.cache
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.Form1.resources
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.Properties.Resources.resources
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.csproj.GenerateResource.cache
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.csproj.CoreCompileInputs.cache
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.exe
+C:\c#Projects\hospitalForm\hospitalForm\obj\Debug\hospitalForm.pdb
